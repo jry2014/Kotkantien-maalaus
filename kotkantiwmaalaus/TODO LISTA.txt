@@ -1,0 +1,8 @@
+TODO
+1. tiedot sivuun sisälle
+2. väritesteri
+3. vaihda main menun boxien väripisteet videoihin
+4. yhteydenottolomake
+5. responsiivinen sivu
+6. Some napit
+7.Kartta sivunalareunaa, joka näyttää yrityksen sijainnin.
