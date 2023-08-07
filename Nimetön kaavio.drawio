@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-08-07T05:52:46.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="9kYGX73Vgv6w4FRvQND0" version="21.6.6" type="github">
+  <diagram name="Sivu-1" id="-LcCEcbUaYE7HyK6DANy">
+    <mxGraphModel dx="875" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_VxtG8w0JDKjrk2TQQZ9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_VxtG8w0JDKjrk2TQQZ9-1" target="_VxtG8w0JDKjrk2TQQZ9-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VxtG8w0JDKjrk2TQQZ9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VxtG8w0JDKjrk2TQQZ9-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VxtG8w0JDKjrk2TQQZ9-1" value="Verkkokauppa.com" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VxtG8w0JDKjrk2TQQZ9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="530" as="targetPoint" />
+            <mxPoint x="255" y="470" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="255" y="475" />
+              <mxPoint x="256" y="475" />
+              <mxPoint x="256" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VxtG8w0JDKjrk2TQQZ9-5" value="Asiakas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VxtG8w0JDKjrk2TQQZ9-10" value="Verkkokauppa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="380" width="90" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
